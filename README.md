@@ -1,3 +1,13 @@
+# Atlas Agent — Runtime Research
+
+**Portfolio status:** Scope review; no new independent runtime.
+
+Retain prior agent engineering; only integrate reusable adapters after AtlasBot/HQ validation. Approved existing runtimes remain execution engines; AtlasInfra owns model access.
+
+> Existing technical reference below is retained for provenance. Product scope follows the [AtlasHub institutional profile](https://github.com/AtlasHub-Si); conflicting historical plans are not active instructions.
+
+---
+
 > **Atlas-Agent · AtlasHub.SI integration track** · [Atlas product context](ATLAS.md) · [Legal and support](LEGAL.md)  
 > Curated through [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas); derived from [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent). Original authorship and [MIT license](LICENSE) remain in force. This is an Atlas **integration**, not a claim that the source software originated at AtlasHub.SI.
 
@@ -246,3 +256,7 @@ for activation, daily use, dependency changes, and leaving the environment.
 MIT — see [LICENSE](LICENSE).
 
 Built by [Nous Research](https://nousresearch.com).
+
+
+---
+[AtlasHub.SI](https://atlashub.si) · London · Lisbon · Goiânia
