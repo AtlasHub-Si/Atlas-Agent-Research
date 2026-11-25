@@ -1,10 +1,12 @@
-# Atlas Agent — Runtime Research
+# Atlas Agent — Hermes Research
 
-**Portfolio status:** Scope review; no new independent runtime.
+**Portfolio status: RESEARCH / NOT VALIDATED.**
 
-Retain prior agent engineering; only integrate reusable adapters after AtlasBot/HQ validation. Approved existing runtimes remain execution engines; AtlasInfra owns model access.
+Experimental customization of Hermes Agent. Not the official Atlas runtime or an independent agent framework. Evaluate Atlas-specific adapters, identity, skills and integration only when justified. Hermes upstream remains an approved candidate runtime independently of this fork.
 
-> Existing technical reference below is retained for provenance. Product scope follows the [AtlasHub institutional profile](https://github.com/AtlasHub-Si); conflicting historical plans are not active instructions.
+> Existing engineering material below is retained for provenance. The current portfolio baseline governs scope; historical instructions do not authorize deployment.
+
+[AtlasHub portfolio](https://github.com/AtlasHub-Si/.github/blob/main/PORTFOLIO.md) · [AtlasHub.SI](https://atlashub.si)
 
 ---
 
